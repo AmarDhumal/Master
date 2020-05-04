@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9115a69a-d946-440b-9f8f-669f67ec00bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9115a69a-d946-440b-9f8f-669f67ec00bc" name="Default Changelist" comment="local commit">
       <change beforePath="$PROJECT_DIR$/master-release.php" beforeDir="false" afterPath="$PROJECT_DIR$/master-release.php" afterDir="false" />
+    </list>
+    <list id="0e178c64-73c3-419f-a7f0-b5d4b8402b66" name="Update master-release.php" comment="Update master-release.php&#10;&#10;(cherry picked from commit fc58b006925b4dd151517d923405331852ecde7f)">
+      <changelist_data name="AmarDhumal" email="64512345+amardhumal@users.noreply.github.com" date="1588592933000">
+        <option name="date" value="1588592933000" />
+        <option name="email" value="64512345+amardhumal@users.noreply.github.com" />
+        <option name="name" value="AmarDhumal" />
+      </changelist_data>
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="8" />
+          <entry key="php" value="12" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="8" />
+          <entry key="PHP" value="12" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -168,6 +172,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />

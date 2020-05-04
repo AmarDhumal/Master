@@ -6,4 +6,4 @@
  * Time: 4:52 PM
  */
 
-echo "in release";
+echo "in release aaa";
